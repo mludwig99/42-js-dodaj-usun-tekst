@@ -1,0 +1,24 @@
+        body {
+            text-align: center;
+        }
+
+        button {
+            width: 70px;
+            height: 30px;
+            border: solid 1px rgb(21, 21, 21);
+            border-radius: 6px;
+            margin-top: 25px;
+        }
+
+        button:hover {
+            cursor: pointer;
+        }
+
+        p {
+            width: 80vw;
+            height: 25vh;
+            background-color: beige;
+            margin: auto;
+            text-align: center;
+            line-height: 12.5vh;
+        }
